@@ -1,1 +1,1 @@
-# rust-code-playground
+# rust-cheat-sheet
